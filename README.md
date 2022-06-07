@@ -27,7 +27,7 @@ For storing user data we also used LocalStorage.
 # Images 🌟
 * Login:
 <br/>
-<img src='https://ibb.co/R2ncHT0'/>
+<img src="https://i.ibb.co/SNTBvwn/1.png" alt="1" border="0" />
 * Home:
 <br/>
 <img src='/Images/MamaEarth.png'/>
