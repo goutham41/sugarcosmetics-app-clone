@@ -47,5 +47,7 @@ All pages are not responsive yet, pages are not properly visible on small screen
 
 
 # RUN JSON-SERVER
-json-server--watch db.json --port 8080
-contributers--> Gautam, Prabhu, poorvi Parashar, Pratik Paul, Rituraj.
+json-server--watch db.json --port 8080.
+
+# Contributers
+contributers--> Gautham, Prabhu, poorvi Parashar, Pratik Paul, Rituraj.
