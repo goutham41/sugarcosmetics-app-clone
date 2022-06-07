@@ -28,13 +28,13 @@ For storing user data we also used LocalStorage.
 * Home:
 <br/>
 <img src="https://i.ibb.co/N3LwjG8/2.png" alt="2" />
-*Product :
+* Product:
 <br/>
 <img src="https://i.ibb.co/Cz07qQy/4.png" alt="4" />
-* Cart :
+* Cart:
 <br/>
 <img src="https://i.ibb.co/P6s2g5W/5.png" alt="5" />
-* offers :
+* offers:
 <br/>
 <img src="https://i.ibb.co/vcrY3C2/6.png" alt="6" />
 
