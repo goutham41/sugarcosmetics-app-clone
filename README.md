@@ -3,7 +3,7 @@
 
 Project:Make a clone of https://in.sugarcosmetics.com/ site
 
-Blog link:https://medium.com/@arfeen_fp01_048/mamaearth-cloning-team-mama-clone-73d06a100536
+<!-- Blog link:https://medium.com/@arfeen_fp01_048/mamaearth-cloning-team-mama-clone-73d06a100536 -->
 
 Netlify link:https://627903a070c89c2f8de0ca72--netlify-thinks-anurag-pverma-is-great.netlify.app/
 
