@@ -27,7 +27,7 @@ For storing user data we also used LocalStorage.
 # Images 🌟
 * Login:
 <br/>
-<img src='https://drive.google.com/drive/u/0/my-drive'/>
+<img src='https://ibb.co/R2ncHT0'/>
 * Home:
 <br/>
 <img src='/Images/MamaEarth.png'/>
