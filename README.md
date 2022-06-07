@@ -1,7 +1,4 @@
 
-# RUN JSON-SERVER
-json-server--watch db.json --port 8080
-contributers--> Gautam, Prabhu, poorvi Parashar, Pratik Paul, Rituraj
 # sugarcosmetics-app-clone
 
 Project:Make a clone of https://in.sugarcosmetics.com/ site
@@ -47,3 +44,8 @@ In this project we have tried to achieve a near to perfect clone of the original
 # Limitations 
 
 All pages are not responsive yet, pages are not properly visible on small screen devices as we were having only 6 days to complete the project.
+
+
+# RUN JSON-SERVER
+json-server--watch db.json --port 8080
+contributers--> Gautam, Prabhu, poorvi Parashar, Pratik Paul, Rituraj.
