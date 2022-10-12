@@ -47,7 +47,7 @@ function Mask({ handleClick }) {
           <div id={styles.opt}>
             <div id={styles.top}>
               <img
-                className={styles.whislisticon}
+                
                 src="https://in.sugarcosmetics.com/desc-images/sortIcon.png"
               />
               <p id={styles.items}>Sort</p>
