@@ -50,4 +50,4 @@ All pages are not responsive yet, pages are not properly visible on small screen
 json-server--watch db.json --port 8080.
 
 # Contributers
-contributers--> Gautham, Prabhu, poorvi Parashar, Pratik Paul, Rituraj.
+contributers--> Gautham, Anurag Verma,  Prabhu, poorvi Parashar, Pratik Paul, Rituraj.
