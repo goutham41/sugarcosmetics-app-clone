@@ -8,7 +8,7 @@ export const BestSellers = ({ handleClick }) => {
   useEffect(() => {
     let getData = async () => {
       try {
-        let res = await fetch("http://localhost:8080/BestOffer");
+        let res = await fetch("https://json-files.herokuapp.com/BestOffer");
         let info = await res.json();
         console.log(info);
         setData([...info]);
