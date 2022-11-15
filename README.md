@@ -1,7 +1,7 @@
 
 # sugarcosmetics-app-clone
 
-Project:Make a clone of https://in.sugarcosmetics.com/ site
+Project:Make a clone of https://sugarcosmetics-clone.netlify.app/
 
 <!-- Blog link:https://medium.com/@arfeen_fp01_048/mamaearth-cloning-team-mama-clone-73d06a100536 -->
 
