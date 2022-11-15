@@ -5,7 +5,7 @@ Project:Make a clone of https://sugarcosmetics-clone.netlify.app/
 
 <!-- Blog link:https://sugarcosmetics-clone.netlify.app/ -->
 
- sugarcosmetics-clone https://sugarcosmetics-clone.netlify.app/ 
+https://sugarcosmetics-clone.netlify.app/
 
 sugarcosmetics is an Indian company of cosmetics products. It is one of the leading company or a brand which intends to make lives of mums & expectant mums better and beautiful. India has a growing market demand for cosmetics. People struggle to find the right shade and product and often switch to big foreign brands.
 
