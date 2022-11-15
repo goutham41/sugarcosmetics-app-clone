@@ -1,12 +1,12 @@
 
 
 export const sliderData  = [
-    {image:"https://sugar-mobile-application.s3-ap-south-1.amazonaws.com/d9103d2b-af25-40c3-b41b-90538502b315.gif",
+    {image:"https://d32baadbbpueqt.cloudfront.net/Homepage/89e51326-1363-44e1-94f1-d5bd00bd2ca9.gif",
     heading: "",
     desc: "",
 },
 
-{image: "https://sugar-mobile-application.s3-ap-south-1.amazonaws.com/22f5baf6-76b8-4315-84d1-29904960ea31.jpg",
+{image: "https://d32baadbbpueqt.cloudfront.net/Homepage/f190c764-84cf-4eea-a381-8b701be65852.gif",
 heading: "",
 desc: ""
 
@@ -14,16 +14,16 @@ desc: ""
 
 
 
-{image: "https://sugar-mobile-application.s3-ap-south-1.amazonaws.com/177972e0-4583-428b-b4db-da5546b71310.jpg",
+{image: "https://d32baadbbpueqt.cloudfront.net/Homepage/af365bcc-d55a-453a-8829-58000d949593.gif",
 heading: "",
 desc: "",
 },
 
-{image:"https://sugar-mobile-application.s3-ap-south-1.amazonaws.com/2726f64a-3b5b-4ca9-b066-2ed3d9245582.gif",
+{image:"https://d32baadbbpueqt.cloudfront.net/Homepage/a41d5b02-1299-4e1a-b4e1-ba19484796b5.gif",
 heading: "",
 desc: ""},
 
-{image:"https://sugar-mobile-application.s3-ap-south-1.amazonaws.com/36e134cb-da00-481a-9769-b975af151b46.jpg",
+{image:"https://d32baadbbpueqt.cloudfront.net/Homepage/9f8fe6f9-3ebe-4d1b-9b15-d5e5e642868b.jpg",
 heading: "",
 desc: ""}
 ]
@@ -32,18 +32,18 @@ desc: ""}
 
 
 export const testData  = [
-    {image:"https://sugar-mobile-application.s3-ap-south-1.amazonaws.com/b6c868ac-3497-4c45-906a-55bbb1ebbc0f.jpg",
+    {image:"https://d32baadbbpueqt.cloudfront.net/Homepage/b69d2fc2-53f5-45ed-8e89-8dcd108ed2b6.jpg",
     heading: "",
     desc: "",
 },
 
-{image: "https://sugar-mobile-application.s3-ap-south-1.amazonaws.com/d8b1d3f0-7cbd-4697-ab5e-4dfdc5a5d408.jpg",
+{image: "https://d32baadbbpueqt.cloudfront.net/Homepage/1fb4eae2-6719-4f1f-b80e-efda1cf48362.jpg",
 heading: "",
 desc: ""
 
 },
 
-{image: "https://sugar-mobile-application.s3-ap-south-1.amazonaws.com/4453d766-3bd0-4fed-9a76-aa19dfc5f526.jpg",
+{image: "https://d32baadbbpueqt.cloudfront.net/Homepage/3b26e735-313c-4cc6-8b04-6b8febc55fe2.jpg",
 heading: "",
 desc: "",
 }

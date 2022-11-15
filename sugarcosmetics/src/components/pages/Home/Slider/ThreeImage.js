@@ -9,9 +9,9 @@ export default function ThreeImage() {
         <p>SUGAR BEAUTY BLOG</p>
     </div>
     <div className='threeImage'>
-        <img src="https://sugar-mobile-application.s3-ap-south-1.amazonaws.com/3d719924-5511-4ebb-b31f-dc3fabbe4cb1.jpg" alt="" />
-        <img src="https://sugar-mobile-application.s3-ap-south-1.amazonaws.com/4570aaa9-52a7-4082-8d59-d2c1d298cdc8.jpg" alt="" />
-        <img src="https://sugar-mobile-application.s3-ap-south-1.amazonaws.com/6095fb33-4d09-4a55-8ceb-395a0818420c.jpg" alt="" />
+        <img src="https://adminblog.s3.ap-south-1.amazonaws.com/image/97L3SpnG51920x453%20%282%29.jpg" alt="" />
+        <img src="https://adminblog.s3.ap-south-1.amazonaws.com/image/1920x453.jpg.jpg" alt="" />
+        <img src="https://adminblog.s3.ap-south-1.amazonaws.com/image/OPV813-sYWays-to-stop-your-scalp-from-flaking_1920x453.jpg" alt="" />
     </div>
     
     

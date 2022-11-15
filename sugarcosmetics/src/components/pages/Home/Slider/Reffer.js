@@ -16,7 +16,7 @@ export default function Reffer() {
       <div>
         <img
           src={
-            "https://sugar-mobile-application.s3-ap-south-1.amazonaws.com/f53f2d67-ea43-4959-abca-eba6d87fd598.jpg"
+            "https://d32baadbbpueqt.cloudfront.net/Homepage/6985f902-c3fe-4a20-bc76-1658a9109fd1.jpg"
           }
           alt="refer"
           className="feferImage"
@@ -37,7 +37,7 @@ export default function Reffer() {
           src="https://www.youtube.com/embed/_TTJmiTiiOQ"
           title="YouTube video player"
           frameborder="0"
-          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+          allow="https://d32baadbbpueqt.cloudfront.net/Homepage/8bfe8bb4-002d-4097-a773-6af33325a594.jpg"
           allowfullscreen
         ></iframe>
 

@@ -31,12 +31,12 @@ export default function TwoMore() {
         modules={[ Navigation]}
         className="mySwiper"
       >
-        <SwiperSlide><img src="https://sugar-mobile-application.s3-ap-south-1.amazonaws.com/8a71a460-cd8f-4166-8ac5-b19407d23699.jpg" alt="" /></SwiperSlide>
-        <SwiperSlide><img src="https://sugar-mobile-application.s3-ap-south-1.amazonaws.com/dd4d4e8a-b7e3-485e-8a8c-059f5ccab057.jpg" alt="" /></SwiperSlide>
-        <SwiperSlide><img src="https://sugar-mobile-application.s3-ap-south-1.amazonaws.com/18ec06e5-4071-4a84-ba25-3e46632b6de0.jpg" alt="" /></SwiperSlide>
-        <SwiperSlide><img src="https://sugar-mobile-application.s3-ap-south-1.amazonaws.com/ce6539a6-6bff-4f41-8554-4af80d8ffd07.jpg" alt="" /></SwiperSlide>
-        <SwiperSlide><img src="https://sugar-mobile-application.s3-ap-south-1.amazonaws.com/dd4d4e8a-b7e3-485e-8a8c-059f5ccab057.jpg" alt="" /></SwiperSlide>
-        <SwiperSlide><img src="https://sugar-mobile-application.s3-ap-south-1.amazonaws.com/18ec06e5-4071-4a84-ba25-3e46632b6de0.jpg" alt="" /></SwiperSlide>
+        <SwiperSlide><img src="https://dummyjson.com/image/i/products/17/1.jpg" alt="" /></SwiperSlide>
+        <SwiperSlide><img src="https://dummyjson.com/image/i/products/17/2.jpg" alt="" /></SwiperSlide>
+        <SwiperSlide><img src="https://dummyjson.com/image/i/products/17/3.jpg" alt="" /></SwiperSlide>
+        <SwiperSlide><img src="https://dummyjson.com/image/i/products/16/1.png" alt="" /></SwiperSlide>
+        <SwiperSlide><img src="https://dummyjson.com/image/i/products/16/3.jpg" alt="" /></SwiperSlide>
+        <SwiperSlide><img src="https://dummyjson.com/image/i/products/16/4.jpg" alt="" /></SwiperSlide>
         
       </Swiper>
 
@@ -46,11 +46,29 @@ export default function TwoMore() {
           <p>THIS OR THAT</p>
         </div>
         <div className="TwoImage">
-          <img src="https://sugar-mobile-application.s3-ap-south-1.amazonaws.com/2dfd09b7-d15c-4d7d-a2e3-fc2c2a7cbc0d.jpg" alt="" />
-          <img src="https://sugar-mobile-application.s3-ap-south-1.amazonaws.com/1edc12f3-1ea2-46c3-a54e-57890e6a3bf9.png" alt="" />
+          <img src="https://d32baadbbpueqt.cloudfront.net/Homepage/d1b038a4-418a-4309-92b1-9aff3b4393ea.jpg" alt="" />
+          <img src="https://d32baadbbpueqt.cloudfront.net/Homepage/984514b9-81c3-4e2a-922e-7b18f42ef77f.jpg" alt="" />
         </div>
 
       </div>
     </>
   );
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

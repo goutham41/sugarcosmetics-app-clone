@@ -34,22 +34,25 @@ export default function FourMore() {
         modules={[ Navigation]}
         className="mySwiper"
       >
-        <SwiperSlide><img src="https://sugar-mobile-application.s3-ap-south-1.amazonaws.com/5a14d6cc-2414-4cc8-bf2b-11f881c756c6.jpg" alt="" /></SwiperSlide>
-        <SwiperSlide><img src="https://sugar-mobile-application.s3-ap-south-1.amazonaws.com/16951257-44d5-4b7e-81cb-55628f498d94.jpg" alt="" /></SwiperSlide>
-        <SwiperSlide><img src="https://sugar-mobile-application.s3-ap-south-1.amazonaws.com/8028cf4f-a5d5-4896-b4c6-5cae8da64b26.jpg" alt="" /></SwiperSlide>
-        <SwiperSlide><img src="https://sugar-mobile-application.s3-ap-south-1.amazonaws.com/3fd3b743-7482-48aa-b08c-e2945f4e55ee.jpg" alt="" /></SwiperSlide>
-        <SwiperSlide><img src="https://sugar-mobile-application.s3-ap-south-1.amazonaws.com/887ac04a-d449-4793-b6ef-f7dfddf1a214.jpg" alt="" /></SwiperSlide>
-        <SwiperSlide><img src="https://sugar-mobile-application.s3-ap-south-1.amazonaws.com/3fd3b743-7482-48aa-b08c-e2945f4e55ee.jpg" alt="" /></SwiperSlide>
-        <SwiperSlide><img src="https://sugar-mobile-application.s3-ap-south-1.amazonaws.com/44351c32-e291-4ef3-9b12-c8570d2d369e.jpg" alt="" /></SwiperSlide>
-        <SwiperSlide><img src="https://sugar-mobile-application.s3-ap-south-1.amazonaws.com/f521d4d5-bf2c-462c-8897-e7e375c6301f.jpg" alt="" /></SwiperSlide>
-        <SwiperSlide><img src="https://sugar-mobile-application.s3-ap-south-1.amazonaws.com/5a14d6cc-2414-4cc8-bf2b-11f881c756c6.jpg" alt="" /></SwiperSlide>
-        <SwiperSlide><img src="https://sugar-mobile-application.s3-ap-south-1.amazonaws.com/8028cf4f-a5d5-4896-b4c6-5cae8da64b26.jpg" alt="" /></SwiperSlide>
-        <SwiperSlide><img src="https://sugar-mobile-application.s3-ap-south-1.amazonaws.com/5a14d6cc-2414-4cc8-bf2b-11f881c756c6.jpg" alt="" /></SwiperSlide>
-        <SwiperSlide><img src="https://sugar-mobile-application.s3-ap-south-1.amazonaws.com/16951257-44d5-4b7e-81cb-55628f498d94.jpg" alt="" /></SwiperSlide>
-        <SwiperSlide><img src="https://sugar-mobile-application.s3-ap-south-1.amazonaws.com/887ac04a-d449-4793-b6ef-f7dfddf1a214.jpg" alt="" /></SwiperSlide>
-        <SwiperSlide><img src="https://sugar-mobile-application.s3-ap-south-1.amazonaws.com/3fd3b743-7482-48aa-b08c-e2945f4e55ee.jpg" alt="" /></SwiperSlide>
-        <SwiperSlide><img src="https://sugar-mobile-application.s3-ap-south-1.amazonaws.com/44351c32-e291-4ef3-9b12-c8570d2d369e.jpg" alt="" /></SwiperSlide>
-        <SwiperSlide><img src="https://sugar-mobile-application.s3-ap-south-1.amazonaws.com/f521d4d5-bf2c-462c-8897-e7e375c6301f.jpg" alt="" /></SwiperSlide>
+        <SwiperSlide><img src="https://dummyjson.com/image/i/products/18/1.jpg" alt="" /></SwiperSlide>
+        <SwiperSlide><img src="https://dummyjson.com/image/i/products/20/1.jpg" alt="" /></SwiperSlide>
+        <SwiperSlide><img src="https://dummyjson.com/image/i/products/20/2.jpg" alt="" /></SwiperSlide>
+        <SwiperSlide><img src="https://dummyjson.com/image/i/products/20/3.jpg" alt="" /></SwiperSlide>
+        <SwiperSlide><img src="https://dummyjson.com/image/i/products/20/4.jpg" alt="" /></SwiperSlide>
+        <SwiperSlide><img src="https://dummyjson.com/image/i/products/18/1.jpg" alt="" /></SwiperSlide>
+        <SwiperSlide><img src="https://dummyjson.com/image/i/products/18/2.jpg" alt="" /></SwiperSlide>
+        <SwiperSlide><img src="https://dummyjson.com/image/i/products/18/3.jpg" alt="" /></SwiperSlide>
+        <SwiperSlide><img src="https://dummyjson.com/image/i/products/18/2.jpg" alt="" /></SwiperSlide>
+        <SwiperSlide><img src="https://dummyjson.com/image/i/products/17/1.jpg" alt="" /></SwiperSlide>
+        <SwiperSlide><img src="https://dummyjson.com/image/i/products/17/2.jpg" alt="" /></SwiperSlide>
+        <SwiperSlide><img src="https://dummyjson.com/image/i/products/17/3.jpg" alt="" /></SwiperSlide>
+        
+        
+<SwiperSlide><img src="https://dummyjson.com/image/i/products/16/1.png" alt="" /></SwiperSlide>
+<SwiperSlide><img src="https://dummyjson.com/image/i/products/16/2.webp" alt="" /></SwiperSlide>
+<SwiperSlide><img src="https://dummyjson.com/image/i/products/16/3.jpg" alt="" /></SwiperSlide>
+<SwiperSlide><img src="https://dummyjson.com/image/i/products/16/thumbnail.jpg" alt="" /></SwiperSlide>
+        
        
       </Swiper>
 
@@ -62,6 +65,26 @@ export default function FourMore() {
 }
 
 
-{/* <div class="swiper-button-next"></div>
-<div class="swiper-button-prev"></div>
-<div class="swiper-pagination"></div> */}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -33,12 +33,12 @@ export default function OneMore() {
        modules={[ Navigation]}
        className="mySwiper"
       >
-        <SwiperSlide><img src="https://sugar-mobile-application.s3-ap-south-1.amazonaws.com/5273604b-7d68-4815-823e-7c9d9cc5f6e4.jpg" alt="" /></SwiperSlide>
-        <SwiperSlide><img src="https://d32baadbbpueqt.cloudfront.net/37f0de63-c052-447c-9f98-dacceede39e1.jpg" alt="" /></SwiperSlide>
-        <SwiperSlide><img src="https://sugar-mobile-application.s3-ap-south-1.amazonaws.com/aa0b42d7-b80b-4262-99a9-f69243f10dc5.jpg" alt="" /></SwiperSlide>
-        <SwiperSlide><img src="https://sugar-mobile-application.s3-ap-south-1.amazonaws.com/c007ac4f-5a1f-4100-aa60-863adaabb679.jpg" alt="" /></SwiperSlide>
-        <SwiperSlide><img src="https://sugar-mobile-application.s3-ap-south-1.amazonaws.com/6f7977f1-8744-4a93-a656-a6f94a140d33.jpg" alt="" /></SwiperSlide>
-        <SwiperSlide><img src="https://sugar-mobile-application.s3-ap-south-1.amazonaws.com/e4977309-1625-432c-b6ed-9ab4cb6596d5.jpg" alt="" /></SwiperSlide>
+        <SwiperSlide><img src="https://dummyjson.com/image/i/products/13/thumbnail.webp" alt="" /></SwiperSlide>
+        <SwiperSlide><img src="https://dummyjson.com/image/i/products/14/thumbnail.jpg" alt="" /></SwiperSlide>
+        <SwiperSlide><img src="https://dummyjson.com/image/i/products/15/1.jpg" alt="" /></SwiperSlide>
+        <SwiperSlide><img src="https://dummyjson.com/image/i/products/15/2.jpg" alt="" /></SwiperSlide>
+        <SwiperSlide><img src="https://dummyjson.com/image/i/products/15/3.jpg" alt="" /></SwiperSlide>
+        <SwiperSlide><img src="https://dummyjson.com/image/i/products/15/4.jpg" alt="" /></SwiperSlide>
        
       </Swiper>
 
@@ -47,10 +47,29 @@ export default function OneMore() {
           <p>ULTIMATE MAKEUP QUIZ</p>
         </div>
         <div>
-          <img src="https://d32baadbbpueqt.cloudfront.net/55b14ff1-ff6e-4af7-bbb6-9dbe8771037f.jpg" className=" myimage" alt="" />
+          <img src="https://d32baadbbpueqt.cloudfront.net/Homepage/b16a42b1-3e35-42bb-b122-a517e75c490e.jpg" className=" myimage" alt="" />
         </div>
 
 
     </>
   );
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
