@@ -7,7 +7,7 @@ function MakeUp({handleClick}) {
   useEffect(() => {
     let getData = async () => {
       try {
-        let res = await fetch("https://json-files.herokuapp.com/makeup");
+        let res = await fetch("https://sugarcosmetic.onrender.com/makeup");
         let info = await res.json();
        // console.log(info);
         setData([...info]);

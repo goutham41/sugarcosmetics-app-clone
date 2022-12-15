@@ -11,7 +11,7 @@ export const SinglePage = () => {
   useEffect(() => {
     const hadllecall = async () => {
       try {
-        let res = await fetch(`http://localhost:8080/makeup/${id}`);
+        let res = await fetch(`https://sugarcosmetic.onrender.com/makeup/${id}`);
         let data = await res.json();
         // console.log(data);
         setData(data);

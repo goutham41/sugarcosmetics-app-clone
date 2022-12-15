@@ -9,7 +9,7 @@ function BreshesData({ handleClick }) {
   useEffect(() => {
     let getData = async () => {
       try {
-        let res = await fetch("https://json-files.herokuapp.com/BRUSHES");
+        let res = await fetch("https://sugarcosmetic.onrender.com/BRUSHES");
         let info = await res.json();
         console.log(info);
         setData([...info]);

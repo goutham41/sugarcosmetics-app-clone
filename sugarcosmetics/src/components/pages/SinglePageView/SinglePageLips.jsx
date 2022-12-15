@@ -12,7 +12,7 @@ export const SinglePageLips = () => {
   useEffect(() => {
     const hadllecall = async () => {
       try {
-        let res = await fetch(`http://localhost:8080/Lips/${id}`);
+        let res = await fetch(`https://sugarcosmetic.onrender.com/Lips/${id}`);
         let data = await res.json();
         // console.log(data);
         setData(data);

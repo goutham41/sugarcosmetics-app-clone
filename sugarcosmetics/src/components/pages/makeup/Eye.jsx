@@ -8,7 +8,7 @@ function Eye({ handleClick }) {
   useEffect(() => {
     let getData = async () => {
       try {
-        let res = await fetch("https://json-files.herokuapp.com/Eye");
+        let res = await fetch("https://sugarcosmetic.onrender.com/Eye");
         let info = await res.json();
         console.log(info);
         setData([...info]);

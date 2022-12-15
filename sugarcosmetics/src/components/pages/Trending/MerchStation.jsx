@@ -8,7 +8,7 @@ export const MerchStation = ({ handleClick }) => {
   useEffect(() => {
     let getData = async () => {
       try {
-        let res = await fetch("https://json-files.herokuapp.com/MerchStation");
+        let res = await fetch("https://sugarcosmetic.onrender.com/MerchStation");
         let info = await res.json();
         console.log(info);
         setData([...info]);
